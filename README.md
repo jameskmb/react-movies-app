@@ -12,7 +12,7 @@ __Objective__: use [The Movie Database API -v3](https://developers.themoviedb.or
 6. Write unit tests for your components & services
 
 No user login/authentication is required. You are also not required to create any backend solution.
-There is no restriction on the design of your app.
+There is no restriction on how your app should look like. How the app is designed and styled is upto to you.
 
 Solving these problems one step at a time will help you feel less overwhelmed and more like you’re heading in a specific direction.
 
