@@ -28,6 +28,7 @@ Check the [Getting Started Guide](https://www.themoviedb.org/documentation/api) 
 After getting an API key, the following documentation pages can be a good place to start.
 
 - https://www.themoviedb.org/documentation/api
+- https://developers.themoviedb.org/3/configuration/get-api-configuration
 - https://www.themoviedb.org/documentation/api/discover
 - https://developers.themoviedb.org/3/discover/movie-discover
 - https://developers.themoviedb.org/3/getting-started/images
