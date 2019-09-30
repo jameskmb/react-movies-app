@@ -27,11 +27,11 @@ You are required to create an account [here](https://www.themoviedb.org) before 
 Check the [Getting Started Guide](https://www.themoviedb.org/documentation/api) for more details.
 After getting an API key, the following documentation pages can be a good place to start.
 
-- https://www.themoviedb.org/documentation/api
-- https://developers.themoviedb.org/3/configuration/get-api-configuration
-- https://www.themoviedb.org/documentation/api/discover
-- https://developers.themoviedb.org/3/discover/movie-discover
-- https://developers.themoviedb.org/3/getting-started/images
+- https://www.themoviedb.org/documentation/api - Overview
+- https://developers.themoviedb.org/3/configuration/get-api-configuration - Base Url
+- https://www.themoviedb.org/documentation/api/discover - Movie Discover
+- https://developers.themoviedb.org/3/discover/movie-discover - Movie Discover
+- https://developers.themoviedb.org/3/getting-started/images - Loading Images
 
 These images show how your app might look like. It's not a requirement that your app should have the same styling as is shown in the images below.
 The only requirements are the ones listed in the task list above.
