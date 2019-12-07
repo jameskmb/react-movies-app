@@ -1,6 +1,6 @@
 # Movies Web App
 
-__Objective__: use [The Movie Database API -v3](https://developers.themoviedb.org/) to create a movie directory app using angular.
+**Objective**: use [The Movie Database API -v3](https://developers.themoviedb.org/) to create a movie directory app using angular.
 
 ## Tasks
 
@@ -12,14 +12,14 @@ __Objective__: use [The Movie Database API -v3](https://developers.themoviedb.or
 6. Write unit tests for your components & services
 
 No user login/authentication is required. You are also not required to create any backend solution.
-There is no restriction on how your app should look like. How the app is designed and styled is upto to you.
+There is no restriction on how your app should look like. How the app is designed and styled is up to to you.
 
 Solving these problems one step at a time will help you feel less overwhelmed and more like you’re heading in a specific direction.
 
 ## Tech Stack
 
-1. Angular - use Angular CLI to generate your app
-2. CSS Sytling. You can use [bootstrap](https://getbootstrap.com/), [Angular Material](https://material.angular.io/) or any other css framework.
+1. React - use create react app to generate your app
+2. CSS Sytling. You can use [bootstrap](https://getbootstrap.com/), [Material UI](https://material-ui.com/) or any other css framework.
 
 ## API Access
 
@@ -40,8 +40,5 @@ _Home Page_
 
 ![picture](home-page.png)
 
-
 _Details Page_
 ![picture](details-page.png)
-
-
