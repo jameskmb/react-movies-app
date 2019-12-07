@@ -1,6 +1,6 @@
 # Movies Web App
 
-**Objective**: use [The Movie Database API -v3](https://developers.themoviedb.org/) to create a movie directory app using angular.
+**Objective**: use [The Movie Database API -v3](https://developers.themoviedb.org/) to create a movie directory app using react.
 
 ## Tasks
 
